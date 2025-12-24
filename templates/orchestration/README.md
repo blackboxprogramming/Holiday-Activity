@@ -177,6 +177,8 @@ Actions:
 - `yellowlight.yml` - YellowLight template definition
 - `greenlight.yml` - GreenLight template definition
 - `orchestrator.yml` - Orchestration configuration
+- `examples.yml` - Practical usage examples and holiday-specific scenarios
+- `README.md` - This documentation file
 
 ## License
 
